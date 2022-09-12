@@ -20,6 +20,8 @@
 		F0839DB028CD7268001B7F48 /* AssignmentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0839DAF28CD7268001B7F48 /* AssignmentViewController.swift */; };
 		F0839DB228CD7285001B7F48 /* ActivityViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0839DB128CD7285001B7F48 /* ActivityViewController.swift */; };
 		F0839DB428CD7294001B7F48 /* ToDoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0839DB328CD7294001B7F48 /* ToDoViewController.swift */; };
+		F0839DB628CE9732001B7F48 /* AddCourseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0839DB528CE9731001B7F48 /* AddCourseViewController.swift */; };
+		F0839DB828CEB479001B7F48 /* OpenCourseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0839DB728CEB479001B7F48 /* OpenCourseViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +59,8 @@
 		F0839DAF28CD7268001B7F48 /* AssignmentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssignmentViewController.swift; sourceTree = "<group>"; };
 		F0839DB128CD7285001B7F48 /* ActivityViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityViewController.swift; sourceTree = "<group>"; };
 		F0839DB328CD7294001B7F48 /* ToDoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoViewController.swift; sourceTree = "<group>"; };
+		F0839DB528CE9731001B7F48 /* AddCourseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddCourseViewController.swift; sourceTree = "<group>"; };
+		F0839DB728CEB479001B7F48 /* OpenCourseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenCourseViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +115,8 @@
 				F031ADC928CD60390034D6E0 /* SceneDelegate.swift */,
 				F031ADCB28CD60390034D6E0 /* ViewController.swift */,
 				F0839DB128CD7285001B7F48 /* ActivityViewController.swift */,
+				F0839DB528CE9731001B7F48 /* AddCourseViewController.swift */,
+				F0839DB728CEB479001B7F48 /* OpenCourseViewController.swift */,
 				F0839DAD28CD62D8001B7F48 /* CourseViewController.swift */,
 				F0839DB328CD7294001B7F48 /* ToDoViewController.swift */,
 				F0839DAF28CD7268001B7F48 /* AssignmentViewController.swift */,
@@ -271,6 +277,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				F0839DB028CD7268001B7F48 /* AssignmentViewController.swift in Sources */,
+				F0839DB628CE9732001B7F48 /* AddCourseViewController.swift in Sources */,
+				F0839DB828CEB479001B7F48 /* OpenCourseViewController.swift in Sources */,
 				F0839DB228CD7285001B7F48 /* ActivityViewController.swift in Sources */,
 				F031ADCC28CD60390034D6E0 /* ViewController.swift in Sources */,
 				F0839DAE28CD62D8001B7F48 /* CourseViewController.swift in Sources */,
